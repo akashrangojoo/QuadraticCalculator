@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quadratic Calculator</string>
+    <string name="text1"> = 0</string>
+    <string name="text2">X + </string>
+    <string name="text3">X</string>
+    <string name="text5">2</string>
+    <string name="text6"> + </string>
+    <string name="text4">Enter Relevant Values : </string>
+    <string name="text7">Go</string>
+    <string name="text8">Solution 1 :</string>
+    <string name="text9">Solution 2 :</string>
+    <string name="clearButton">Clear</string>
+</resources>
